@@ -94,7 +94,7 @@ html,body{
     color: white;
     margin-top: 10px;
 }
-tag{
+span{
     color: #2587E4;
     font-size: 1.5vw;
     display: flex;
@@ -135,7 +135,7 @@ tag{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2vw;
 }
-.page3 tag{
+.page3 span{
     color: #2587E4;
     font-size: 1.5vw;
     display: flex;
@@ -230,7 +230,7 @@ font-family: Arial, Helvetica, sans-serif;
     margin-top: 2px;
     font-size: 1.9vw;
 }
-.page4 tag{
+.page4 span{
     font-size: 1.5vw;
     display: flex;
     align-items: center;
